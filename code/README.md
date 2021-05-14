@@ -14,7 +14,7 @@
 
 Mawer provides long term investment solutions that allow their clients to “make money as they sleep”. With an emphasis on risk management and mitigating risk through diversification of their clients’ portfolio, Mawer takes a cautious approach to investing as opposed to an aggressive high risk approach. Navigating through their website they repeatedly mention a “bottom up approach”
 
-     “Bottom-Up Investing is an investment approach that focuses on the     analysis of individual stocks and de-emphasizes the significance of macro-economic cycles and market cycles.” – Investopedia 
+ *"Bottom-Up Investing is an investment approach that focuses on the  analysis of individual stocks and de-emphasizes the significance of macro-economic cycles and market cycles.” – Investopedia*
 
 Mawer was started for investors that wanted to learn how to make better long term investments through educating and keeping their minds open. Not only offering investment management services they also have podcasts and articles available to everyone. Their target audience is broad in the sense that they aren’t targeting a specific age group but really anyone that wishes to begin investing without watching the markets on a daily or weekly basis. Mawer doesn’t follow fads or the next big thing, so if you’re looking for a get rich quick approach to investing this is not the place to go.
 
@@ -68,11 +68,11 @@ In comparison to another company in the same domain I chose to look into BlackRo
 
 
 
-[data](data)
+[data](../data)
 
-[reference](reference)
+[reference](../reference)
 
-[code](code)
+[code](../code)
 
 [image](image)
 
